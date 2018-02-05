@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gongmeishan/Desktop/安卓开发/2/final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gongmeishan/Desktop/安卓开发/2/final/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2155bc2db185b6e381fc19630a1fbff4c9255b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gongmeishan/Desktop/安卓开发/2/final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6513477c7603206133544aa706eb2c4093d1eb5d">
+        <dex dex="/Users/gongmeishan/Desktop/安卓开发/2/final/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cdfa112584cfe5ff691c85091a3d3e697aeb93a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gongmeishan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/gongmeishan/Desktop/安卓开发/2/final/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4dd50ca2e162dcc80b2b183208ee0ad1714a8614/classes.dex" />
+    </item>
+
+</items>

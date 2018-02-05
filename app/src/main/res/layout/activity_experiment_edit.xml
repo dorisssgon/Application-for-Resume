@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:padding="16dp">
+<EditText
+    android:id="@+id/experience_company_edit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:hint="@string/company_name"/>
+<EditText
+    android:id="@+id/experience_title_edit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:hint="@string/experience_title"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+    <EditText
+        android:id="@+id/experience_edit_start_date_edit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/education_startdate"/>
+    <EditText
+        android:id="@+id/experience_edit_end_date_edit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/education_enddate"/>
+</LinearLayout>
+<EditText
+    android:id="@+id/experience_doing_edit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:hint="@string/doingwhat"/>
+    <TextView
+        android:id="@+id/experiment_edit_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_small"
+        android:layout_gravity="right"
+        android:text="@string/action_delete"
+        style="@style/AppTheme.TextView.DeleteButton"/>
+</LinearLayout>

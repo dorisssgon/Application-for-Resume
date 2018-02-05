@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="education">教育经历</string>
+    <string name="experimence">工作经验</string>
+    <string name="projext">项目经验</string>
+</resources>

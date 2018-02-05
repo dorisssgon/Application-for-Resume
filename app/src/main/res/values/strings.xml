@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mater Resume</string>
+    <string name="education">EDUCATION</string>
+    <string name="experience">EXPERIENCE</string>
+    <string name="projext">PROJECT</string>
+    <string name="edit_basic_info">Edit basic info</string>
+    <string name="section_education">Education</string>
+    <string name="add_education">Add education</string>
+    <string name="edit_education">Edit education</string>
+    <string name="user_picture">User picture</string>
+    <string name="education_school">School</string>
+    <string name="education_major">Major</string>
+    <string name="education_startdate">Start Date</string>
+    <string name="education_enddate">End Date</string>
+    <string name="education_course">Course</string>
+    <string name="action_save">Action Save</string>
+    <string name="company_name">Company</string>
+    <string name="experience_title">Title</string>
+    <string name="doingwhat">What did you do</string>
+    <string name="project_name">Project name</string>
+    <string name="project_details">Details</string>
+    <string name="project_name_edit">Project name</string>
+    <string name="choose_user_picture">Choose using picture</string>
+    <string name="basic_info_edit_name_hint">Your name</string>
+    <string name="basic_info_edit_email_hint">Your email</string>
+    <string name="action_delete">Delete</string>
+</resources>
